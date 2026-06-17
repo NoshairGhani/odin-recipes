@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    /* background-color: rgb(207, 145, 62); */
+}
+
+body {
+    background-color: rgb(207, 145, 62);
+}
+.card {
+    background-color: rgb(63, 27, 96);
+    padding: 20px;
+    border: 2px solid rgb(13, 66, 13);
+    border-radius: 8px;
+    height: fit-content;
+    width: fit-content;
+    margin: 48px auto;
+}
+
+.card-bg {
+    background-color: rgb(138, 112, 182);
+    padding: 20px;
+    margin: 0px auto;
+    border-radius: 8px;
+    width:fit-content;
+}
+
+.recipe{
+    text-align: center;
+    display: inline-block;
+    margin: 12px;
+    border: solid 2px rgb(23, 7, 66);
+    border-radius: 2px;
+}
+
+.recipe img {
+    display: block;
+}
+a {
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(62, 22, 89);
+    background-color: rgb(70, 104, 126);
+}
+
+h1,h2 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(63, 27, 96);
+    margin: 0px;
+}
+
